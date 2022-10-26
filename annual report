@@ -1,0 +1,14 @@
+During this year, I primarily contributed to the ingestion of data for OMRAP,
+
+This includes the GOS ingestion of SMC & trade store data in both the Dev and UAT environment. Then by getting proper information from Satish, I ingested the call data in the Dev environment. 
+
+Then I teamed up with Susan and worked on the following
+
+We have done the GOS ingestion for the Instrument reference data. Then we have started working on the GoS Ingestion of Regulatory reporting. This includes both confirmed zone and semantic zone data. These data have been successfully ingested in the Dev and UAT environments. We have also given a seminar about exclusion to higher management.
+
+Then I worked on margin requirement ingestion which involves small changes in the templates which is directed by Paritosh.
+
+Following this, I then started working on the Derivative profile special customer data ingestion .which was a three step ingestion . I have done the ingestion in the Dev and UAT environments and then I have worked with Partik to deploy the same in the production environment as well.
+
+Since the beginning of August, I have begun exploring Amazon AWS as it will be our data store and our processing hub for ETL jobs. Our AWS team is currently discussing various methodologies that will require fewer changes in code and easier migration of tasks from on-premises to AWS.
+
